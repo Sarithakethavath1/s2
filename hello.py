@@ -1,1 +1,1 @@
-echo 'hello python'
+echo 'hello pythons'
